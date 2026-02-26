@@ -14,7 +14,8 @@ Este projeto contém meu primeiro contato com HTML durante a aula introdutória.
 - ✅ Configuração de codificação de caracteres com `<meta charset>`
 - ✅ Tags de conteúdo: `<p>` para parágrafos e `<br>` para quebras de linha
 
-```## 📁 Estrutura do Projeto
+## 📁 Estrutura do Projeto
+```
 aula 1-html/
 ├── 📄 index.html
 └── 📖 README.md
